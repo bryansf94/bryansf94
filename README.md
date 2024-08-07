@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Eu sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e inovação.
+Olá! Eu sou Brayan Rodrigues, um desenvolvedor em fomração apaixonado por tecnologia e inovação.
 
 ## Projetos em destaque
 - Projeto 1
