@@ -12,7 +12,7 @@ O sistema BookHere é uma plataforma digital que está sendo desenvolvido para f
 Repositorio: https://github.com/bryansf94/Book-Here.git
 
 <div align="center">
-  <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="300">
+  <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="230">
 </div>
 
 - **MyRiffle:**
@@ -22,8 +22,9 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
 ## Contato
 - LinkedIn:https://www.linkedin.com/in/brayan-henrique-de-rodrigues-b1b102211
 
-## Ferramentas em linguagens
+## Ferramentas e linguagens
 <div align="left">
+<h1>Aprendendendo JavaJS</h1>
     <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="300">
 </div>
 
