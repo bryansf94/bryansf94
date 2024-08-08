@@ -34,7 +34,7 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
 ### Ferramentas 
 | SQL Server | My SQL | Figma | Git|
 |------------|--------|-------|----|
-| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/sql%20server.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/MYSQL.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/FIGMA.png" alt=" " width="70">|  <img src="https://github.com/bryansf94/bryansf94/blob/main/img/GIT.png" alt=" " width="120">|
+| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/sql%20server.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/MYSQL.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/FIGMA.png" alt=" " width="70">|  <img src="https://github.com/bryansf94/bryansf94/blob/main/img/GIT.png" alt=" " width="90">|
 
 
 <p align="center">
