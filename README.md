@@ -23,25 +23,13 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
 - LinkedIn:https://www.linkedin.com/in/brayan-henrique-de-rodrigues-b1b102211
 
 ## Ferramentas e linguagens que estou aprendendo
-- JavaJs
-<div align="left">
-    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/JavaJs.png" alt=" " width="120">
-</div>
+<div>
 
-- PHP
-<div align="left">
-    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/PHP.png" alt=" " width="120">
-</div>
+### Linguagens 
 
-- HTML
-<div align="left">
-    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="70">
-</div>
-
-- CSS
-<div align="left">
-    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/CSS.png" alt=" " width="120">
-</div>
+| JavaJs | PHP | html | CSS |
+|--------|-----|------|-----|
+| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/JavaJs.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/PHP.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="70">|  <img src="https://github.com/bryansf94/bryansf94/blob/main/img/CSS.png" alt=" " width="120">|
 
 
 
