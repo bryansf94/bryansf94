@@ -32,9 +32,10 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
 | <img src="https://github.com/bryansf94/bryansf94/blob/main/img/JavaJs.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/PHP.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="70">|  <img src="https://github.com/bryansf94/bryansf94/blob/main/img/CSS.png" alt=" " width="120">|
 
 ### Ferramentas 
-| SQL Server | My SQL | Figma |
-|--------|-----|------|-----|
-| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/JavaJs.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/PHP.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="70">|
+| SQL Server | My SQL | Figma | Git|
+|------------|--------|-------|----|
+| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/JavaJs.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/PHP.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="70">|  <img src="https://github.com/bryansf94/bryansf94/blob/main/img/CSS.png" alt=" " width="120">|
+
 
 
 
