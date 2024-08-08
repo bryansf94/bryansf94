@@ -23,3 +23,8 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
 - LinkedIn:https://www.linkedin.com/in/brayan-henrique-de-rodrigues-b1b102211
 
 ## Ferramentas em linguagens
+<div align="left">
+    <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="300">
+</div>
+
+
