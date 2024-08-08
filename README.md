@@ -35,7 +35,7 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
 
 - HTML
 <div align="left">
-    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="90">
+    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="70">
 </div>
 
 - CSS
