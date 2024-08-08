@@ -4,7 +4,7 @@ Olá! Eu sou Brayan Rodrigues, um desenvolvedor em fomração apaixonado por tec
 
 ## Projetos em destaque
 <div align="center">
-  <img src="https://github.com/bryansf94/Book-Here/blob/main/logo_com_fundo.jpg" alt=" " width="300">
+  <img src="https://github.com/bryansf94/Book-Here/blob/main/logo_com_fundo.jpg" alt=" " width="230">
 </div>
 
 - **BookHere:** 
