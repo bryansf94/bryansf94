@@ -25,22 +25,22 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
 ## Ferramentas e linguagens que estou aprendendo
 - JavaJs
 <div align="left">
-    <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="300">
+    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/JavaJs.png" alt=" " width="120">
 </div>
 
 - PHP
 <div align="left">
-    <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="300">
+    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/PHP.png" alt=" " width="120">
 </div>
 
 - HTML
 <div align="left">
-    <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="300">
+    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="120">
 </div>
 
 - CSS
 <div align="left">
-    <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="300">
+    <img src="https://github.com/bryansf94/bryansf94/blob/main/img/CSS.png" alt=" " width="120">
 </div>
 
 
