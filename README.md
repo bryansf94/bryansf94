@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Eu sou Brayan Rodrigues, um desenvolvedor em fomração apaixonado por tecnologia e inovação. Estou em uma jornada de aprendizado e imerssao na area de tecnologia. ESpero poder aprender muito e poder contribuir uito nessa comunidade.
+Olá! Meu nome é Brayan Rodrigues, um desenvolvedor em formação apaixonado por tecnologia e inovação. Estou em uma jornada de aprendizado e imersão na área de tecnologia. Espero poder aprender muito e contribuir bastante para esta comunidade.
 
 ## Projetos em destaque
 <div align="center">
