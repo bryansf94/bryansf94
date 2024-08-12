@@ -19,8 +19,6 @@ Repositorio: https://github.com/bryansf94/Book-Here.git
 Repositório criado para um projeto de desenvolvimento de um site que realiza sorteios de rifas com até 500 números. Este projeto tem um propósito educacional, onde irei desenvolver minha primeira aplicação utilizando PHP, JavaScript, banco de dados SQL e servidor Apache.
 Repositorio: https://github.com/bryansf94/My_Raffle.git
 
-## Contato
-- LinkedIn:https://www.linkedin.com/in/brayan-henrique-de-rodrigues-b1b102211
 
 ## Ferramentas e linguagens que estou aprendendo
 
@@ -41,6 +39,7 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
  <img width="1000" src="img/github-snake.svg" alt="snake"/>
 </p>
 
-
+## Contato
+- LinkedIn:https://www.linkedin.com/in/brayan-henrique-de-rodrigues-b1b102211
 
 
