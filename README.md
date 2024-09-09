@@ -43,3 +43,15 @@ Repositorio: https://github.com/bryansf94/My_Raffle.git
 - LinkedIn:https://www.linkedin.com/in/brayan-henrique-de-rodrigues-b1b102211
 
 
+- [![](https://visitcount.itsvg.in/api?id=raffaelramalho&icon=1&color=7)](https://visitcount.itsvg.in)
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/raffaelramalho/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
+
+
