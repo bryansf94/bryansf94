@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Meu nome é Brayan Rodrigues, sou desenvolvedor, empresário e futuro CEO, apaixonado por tecnologia e inovação. Estou em uma jornada de aprendizado e imersão na área de tecnologia, e espero aprender muito e contribuir bastante para esta comunidade.
+Olá! Meu nome é Brayan Rodrigues, sou desenvolvedor, empresário e CEO fundador da Beyond Bits, apaixonado por tecnologia e inovação. Estou em uma jornada de aprendizado e imersão na área de tecnologia, e espero aprender muito e contribuir bastante para esta comunidade.
 
 # Beyond Bits
 
@@ -8,7 +8,7 @@ Olá! Meu nome é Brayan Rodrigues, sou desenvolvedor, empresário e futuro CEO,
   <img src="https://github.com/beyondBitsLtda/beyondBitsLtda/blob/main/img/C%C3%B3pia%20de%20beyobd_logo-1.jpg" alt=" " width="350">
 </div>
 
-O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado de tecnologia utilizando uma metodologia passo a passo e colaborativa. Este enfoque visa não apenas o desenvolvimento individual, mas também a mútua colaboração entre os membros, promovendo um ambiente de aprendizado contínuo e compartilhamento de conhecimentos.
+O grupo Beyond Bits no qual eu sou fundador, tem como objetivo preparar seus colaboradores para o mercado de tecnologia utilizando uma metodologia passo a passo e colaborativa. Este enfoque visa não apenas o desenvolvimento individual, mas também a mútua colaboração entre os membros, promovendo um ambiente de aprendizado contínuo e compartilhamento de conhecimentos.
 
 ## Ferramentas e linguagens que estou aprendendo
 
