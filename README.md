@@ -5,7 +5,7 @@ Olá! Meu nome é Brayan Rodrigues, sou desenvolvedor, empresário e futuro CEO,
 # Beyond Bits
 
 <div align="center">
-  <img src="https://github.com/beyondBitsLtda/beyondBitsLtda/blob/main/img/C%C3%B3pia%20de%20beyobd_logo-1.jpg" alt=" " width="150">
+  <img src="https://github.com/beyondBitsLtda/beyondBitsLtda/blob/main/img/C%C3%B3pia%20de%20beyobd_logo-1.jpg" alt=" " width="350">
 </div>
 
 O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado de tecnologia utilizando uma metodologia passo a passo e colaborativa. Este enfoque visa não apenas o desenvolvimento individual, mas também a mútua colaboração entre os membros, promovendo um ambiente de aprendizado contínuo e compartilhamento de conhecimentos.
