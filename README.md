@@ -1,24 +1,14 @@
 # Bem-vindo ao meu perfil!
 
-Olá! Meu nome é Brayan Rodrigues, um desenvolvedor em formação apaixonado por tecnologia e inovação. Estou em uma jornada de aprendizado e imersão na área de tecnologia. Espero poder aprender muito e contribuir bastante para esta comunidade.
+Olá! Meu nome é Brayan Rodrigues, sou desenvolvedor, empresário e futuro CEO, apaixonado por tecnologia e inovação. Estou em uma jornada de aprendizado e imersão na área de tecnologia, e espero aprender muito e contribuir bastante para esta comunidade.
 
-## Projetos em destaque
-<div align="center">
-  <img src="https://github.com/bryansf94/Book-Here/blob/main/logo_com_fundo.jpg" alt=" " width="230">
-</div>
-
-- **BookHere:** 
-O sistema BookHere é uma plataforma digital que está sendo desenvolvido para facilitar a gestão e o compartilhamento de livros em bibliotecas. Desenvolvido com base em um estudo detalhado de requisitos, o BookHere oferece uma solução completa para administradores e usuários, desde o cadastro do acervo até a reserva e leitura online de obras.
-Repositorio: https://github.com/bryansf94/Book-Here.git
+# Beyond Bits
 
 <div align="center">
-  <img src="https://github.com/bryansf94/My_Raffle/blob/main/Public/img/logo-banner.png" alt=" " width="230">
+  <img src="https://github.com/beyondBitsLtda/beyondBitsLtda/blob/main/img/C%C3%B3pia%20de%20beyobd_logo-1.jpg" alt=" " width="150">
 </div>
 
-- **MyRiffle:**
-Repositório criado para um projeto de desenvolvimento de um site que realiza sorteios de rifas com até 500 números. Este projeto tem um propósito educacional, onde irei desenvolver minha primeira aplicação utilizando PHP, JavaScript, banco de dados SQL e servidor Apache.
-Repositorio: https://github.com/bryansf94/My_Raffle.git
-
+O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado de tecnologia utilizando uma metodologia passo a passo e colaborativa. Este enfoque visa não apenas o desenvolvimento individual, mas também a mútua colaboração entre os membros, promovendo um ambiente de aprendizado contínuo e compartilhamento de conhecimentos.
 
 ## Ferramentas e linguagens que estou aprendendo
 
